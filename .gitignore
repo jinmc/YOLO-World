@@ -125,3 +125,23 @@ work_dirs
 # venus
 venus_run.sh
 
+# data images (large, not tracked)
+data/images/
+data/images.zip
+
+# old label versions (keep only v4)
+data/labels/
+data/labels_v2/
+data/labels_v3/
+
+# raw labels folder (use zip instead)
+data/labels_v4/
+data/labels_v4.zip
+
+# visualization outputs
+data/viz/
+data/viz_v4/
+
+# model weights (download separately)
+weights/
+
