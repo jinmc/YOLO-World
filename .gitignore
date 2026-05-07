@@ -126,6 +126,7 @@ work_dirs
 venus_run.sh
 
 # data images (large, not tracked)
+data/
 data/images/
 data/images.zip
 
